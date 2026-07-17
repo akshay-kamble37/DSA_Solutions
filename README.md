@@ -8,6 +8,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 - Binary Search
 - String
 - Linked List
+- Recursion(Backtracking)
 
 ## 📊 Platforms
 - LeetCode
