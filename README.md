@@ -22,12 +22,15 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
