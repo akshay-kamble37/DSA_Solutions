@@ -40,4 +40,17 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
