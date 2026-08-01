@@ -23,7 +23,6 @@ Combine both with * to get ABC/-AK/L-*  */
 
 
 
-
 class Solution {
   public:
     int pref(char &ch){
