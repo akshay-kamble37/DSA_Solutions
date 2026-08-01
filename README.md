@@ -26,6 +26,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
@@ -47,6 +48,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -92,4 +95,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
