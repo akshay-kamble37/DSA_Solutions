@@ -60,6 +60,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
@@ -115,4 +116,16 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
