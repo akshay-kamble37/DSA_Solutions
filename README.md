@@ -43,6 +43,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
@@ -79,6 +81,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 ## Monotonic Stack
@@ -123,9 +126,18 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
