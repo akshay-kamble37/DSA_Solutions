@@ -61,6 +61,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +123,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
