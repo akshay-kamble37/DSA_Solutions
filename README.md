@@ -22,6 +22,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -51,6 +52,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
@@ -110,6 +112,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 ## Greedy
@@ -150,4 +153,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
