@@ -37,6 +37,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -78,6 +79,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -159,4 +161,12 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
