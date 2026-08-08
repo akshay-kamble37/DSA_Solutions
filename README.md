@@ -69,6 +69,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -81,6 +82,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
