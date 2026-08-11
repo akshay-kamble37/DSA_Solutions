@@ -63,6 +63,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
