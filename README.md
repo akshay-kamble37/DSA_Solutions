@@ -131,6 +131,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2235-add-two-integers) |
 ## Game Theory
 |  |
 | ------- |
