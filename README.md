@@ -10,6 +10,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 - String
 - Linked List
 - Recursion(Backtracking)
+- Stack and Queue
+- Two Pointer and Sliding Window
 
 ## 📊 Platforms
 - LeetCode
