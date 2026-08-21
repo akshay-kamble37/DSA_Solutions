@@ -210,4 +210,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
