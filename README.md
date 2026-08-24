@@ -85,6 +85,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0875-koko-eating-bananas](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -102,6 +103,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -174,6 +176,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -216,4 +219,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0077-combinations](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0077-combinations) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
