@@ -80,6 +80,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0665-non-decreasing-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -166,6 +167,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
