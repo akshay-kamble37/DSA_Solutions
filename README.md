@@ -162,6 +162,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
