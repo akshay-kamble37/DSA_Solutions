@@ -62,6 +62,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
