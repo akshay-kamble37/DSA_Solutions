@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-         int n = nums.size();
+        int n = nums.size();
 
         int minIndex = 0;
         int maxIndex = 0;
