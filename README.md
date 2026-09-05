@@ -97,6 +97,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -111,6 +112,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
