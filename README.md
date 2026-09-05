@@ -98,6 +98,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
