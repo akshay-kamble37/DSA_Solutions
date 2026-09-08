@@ -178,6 +178,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3870-count-commas-in-range) |
 ## Game Theory
 |  |
 | ------- |
