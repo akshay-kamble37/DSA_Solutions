@@ -73,6 +73,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
@@ -242,6 +244,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0077-combinations) |
 ## Counting
 |  |
