@@ -109,6 +109,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -155,6 +156,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -232,6 +234,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -309,4 +312,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
