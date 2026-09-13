@@ -267,6 +267,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -278,6 +279,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -291,6 +293,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -302,6 +305,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
 |  |
