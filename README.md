@@ -254,6 +254,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0077-combinations) |
+| [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -289,6 +291,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -308,6 +311,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0110-balanced-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
