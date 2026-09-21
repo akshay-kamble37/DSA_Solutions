@@ -196,6 +196,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -279,6 +280,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -323,6 +325,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -345,6 +348,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## DP on Trees
 |  |
