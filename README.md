@@ -151,6 +151,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
@@ -181,6 +182,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -376,4 +378,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
