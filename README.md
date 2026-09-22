@@ -12,6 +12,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 - Recursion(Backtracking)
 - Stack and Queue
 - Two Pointer and Sliding Window
+- Binary Tree
+- Binary Search Tree
 
 ## 📊 Platforms
 - LeetCode
