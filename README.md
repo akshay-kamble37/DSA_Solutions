@@ -303,6 +303,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +389,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
