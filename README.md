@@ -97,6 +97,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -138,6 +139,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
@@ -147,6 +149,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 ## Monotonic Stack
@@ -410,4 +413,24 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
