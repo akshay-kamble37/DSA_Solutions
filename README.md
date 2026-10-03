@@ -81,6 +81,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0057-insert-interval](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -136,6 +137,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
@@ -147,6 +149,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
@@ -416,6 +419,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -433,4 +437,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
