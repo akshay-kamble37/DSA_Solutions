@@ -87,6 +87,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0665-non-decreasing-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0665-non-decreasing-array) |
@@ -125,6 +126,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -140,6 +142,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
