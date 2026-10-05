@@ -210,6 +210,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -449,4 +450,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
