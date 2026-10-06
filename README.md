@@ -154,6 +154,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -272,6 +273,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
@@ -428,11 +430,13 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -454,4 +458,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
