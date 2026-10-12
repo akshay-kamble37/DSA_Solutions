@@ -287,6 +287,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -473,6 +474,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
 ## Tournament Sort
 |  |
