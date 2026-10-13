@@ -52,6 +52,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -147,6 +148,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -163,6 +165,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
@@ -193,6 +196,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -274,6 +278,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
