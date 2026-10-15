@@ -103,6 +103,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0704-binary-search](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -137,6 +138,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +224,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0605-can-place-flowers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
