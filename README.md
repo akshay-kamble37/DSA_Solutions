@@ -30,6 +30,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -297,6 +298,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0206-reverse-linked-list) |
@@ -335,6 +337,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -362,6 +365,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -388,6 +392,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
