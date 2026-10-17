@@ -82,6 +82,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
@@ -149,6 +150,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -200,6 +202,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
