@@ -112,6 +112,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -238,6 +239,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
