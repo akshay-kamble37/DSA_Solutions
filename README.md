@@ -96,6 +96,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0605-can-place-flowers) |
@@ -140,6 +141,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0846-hand-of-straights) |
