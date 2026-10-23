@@ -524,4 +524,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
