@@ -393,6 +393,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0513-find-bottom-left-tree-value](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -445,6 +446,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Bit Manipulation
@@ -527,5 +529,10 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
