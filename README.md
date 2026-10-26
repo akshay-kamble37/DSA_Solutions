@@ -105,6 +105,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0621-task-scheduler](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0665-non-decreasing-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0739-daily-temperatures) |
@@ -400,6 +401,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -454,6 +456,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +471,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
 |  |
@@ -542,4 +546,5 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
