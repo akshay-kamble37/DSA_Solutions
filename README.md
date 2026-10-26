@@ -118,6 +118,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -457,6 +458,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -472,6 +474,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
 |  |
