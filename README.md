@@ -125,6 +125,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -462,6 +463,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -479,6 +481,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
 |  |
