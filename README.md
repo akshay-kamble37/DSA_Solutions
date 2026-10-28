@@ -89,6 +89,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0057-insert-interval](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -392,6 +393,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
@@ -453,6 +455,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -477,6 +480,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
@@ -554,6 +558,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
