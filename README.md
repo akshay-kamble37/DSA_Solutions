@@ -122,6 +122,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0992-subarrays-with-k-different-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -408,6 +409,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +468,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
 ## Bit Manipulation
 |  |
@@ -485,6 +488,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
@@ -562,4 +566,5 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
