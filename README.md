@@ -420,6 +420,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -484,6 +485,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -576,6 +578,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1791-find-center-of-star-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -590,4 +593,16 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
