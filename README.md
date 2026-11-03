@@ -138,6 +138,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3731-find-missing-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -261,6 +262,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
