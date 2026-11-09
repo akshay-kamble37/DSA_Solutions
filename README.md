@@ -69,6 +69,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0020-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -148,6 +149,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -478,6 +480,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0112-path-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
@@ -631,4 +634,8 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
