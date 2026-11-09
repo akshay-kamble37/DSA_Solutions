@@ -73,6 +73,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0316-remove-duplicate-letters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -155,6 +156,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0496-next-greater-element-i) |
@@ -484,6 +486,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
+| [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
@@ -638,4 +641,5 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
