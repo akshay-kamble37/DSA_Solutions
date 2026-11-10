@@ -137,6 +137,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -167,6 +168,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
