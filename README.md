@@ -72,6 +72,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -158,6 +159,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -181,6 +183,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -515,6 +518,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## DP on Trees
 |  |
