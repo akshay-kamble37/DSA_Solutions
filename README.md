@@ -31,6 +31,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -232,6 +233,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0016-3sum-closest](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0905-sort-array-by-parity) |
@@ -339,6 +341,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
@@ -589,6 +592,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0326-power-of-three) |
 ## Tournament Sort
