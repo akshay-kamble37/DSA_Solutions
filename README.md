@@ -141,6 +141,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -228,6 +229,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0258-add-digits](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0735-asteroid-collision) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2974-minimum-number-game](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2974-minimum-number-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
@@ -541,6 +543,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1765-map-of-highest-peak) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search Tree
 |  |
