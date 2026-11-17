@@ -94,6 +94,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0049-group-anagrams](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
@@ -365,6 +366,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | ------- |
 | [0047-permutations-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Counting
@@ -526,6 +528,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
