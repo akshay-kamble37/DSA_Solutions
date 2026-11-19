@@ -433,6 +433,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -508,6 +509,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0199-binary-tree-right-side-view](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -622,6 +624,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -651,6 +654,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
