@@ -449,6 +449,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -521,6 +522,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0733-flood-fill](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
@@ -628,6 +630,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 | [1791-find-center-of-star-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -640,6 +643,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0547-number-of-provinces](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -668,10 +672,12 @@ This repository contains all my Data Structures and Algorithms solutions.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0886-possible-bipartition) |
 ## Bidirectional Search
 |  |
 | ------- |
