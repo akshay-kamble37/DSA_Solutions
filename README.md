@@ -83,6 +83,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
