@@ -541,6 +541,7 @@ This repository contains all my Data Structures and Algorithms solutions.
 | [0078-subsets](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-kamble37/DSA_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## DP on Trees
 |  |
